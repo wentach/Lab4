@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google Glossary</title>
+</head>
+<body>
+	<h1>Google Glossary</h1>
+	<dl>
+	<dt>Gmail</dt>
+	<dd>A free email service developed by Google. Gmail offers features such as a spam filter and 15 GB of storage.</dd>
+
+	<dt>Google Drive</dt>
+	<dd>A cloud storage and file sharing service developed by Google. Google Drive offers 15 GB of free storage and allows users to create, share, and edit documents, spreadsheets, and presentations.</dd>
+
+	<dt>Google Maps</dt>
+	<dd>A web-based mapping service developed by Google. Google Maps offers satellite imagery, street maps, and panoramic views of streets.</dd>
+
+	<dt>Google Calendar</dt>
+	<dd>A time-management web application developed by Google. Google Calendar allows users to create and edit events, set reminders, and share calendars with others.</dd>
+
+	<dt>Google Translate</dt>
+	<dd>A free multilingual machine translation service developed by Google. Google Translate can translate text, speech, images, and web pages between any combination of over 100 languages.</dd>
+
+	<dt>Google Chrome</dt>
+	<dd>A free web browser developed by Google. Google Chrome is known for its speed, stability, and security features.</dd>
+
+	<dt>Google Analytics</dt>
+	<dd>A web analytics service developed by Google. Google Analytics tracks and reports website traffic, allowing users to measure the effectiveness of their marketing campaigns and improve their website's performance.</dd>
+	</dl>
+</body>
+</html>
